@@ -14,4 +14,4 @@ NetBeans
 Eclipse  
 
 ## Follow Me
-[Vk](https://vk.com/forbidden_mind)
+[![VK](https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg)](https://vk.com/forbidden_mind)
